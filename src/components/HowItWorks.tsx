@@ -5,7 +5,7 @@ const steps = [
     body: (
       <>
         In Claude.ai, open <em>Settings → Connectors → Add custom connector</em> and paste{" "}
-        <code className="rounded bg-klas-rose/40 px-1.5 py-0.5 text-[0.85em] text-klas-deep">https://openklas.com/mcp</code>.
+        <code className="rounded bg-klas-rose/40 px-1.5 py-0.5 text-[0.85em] text-klas-deep">https://mcp.openklas.com/mcp</code>.
       </>
     ),
   },

@@ -55,7 +55,7 @@ export default function Hero() {
 
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-3">
           <Link
-            href="https://claude.ai/settings/connectors"
+            href="https://claude.ai/customize/connectors"
             className="inline-flex items-center gap-2 rounded-full bg-klas-deep px-6 py-3 text-sm font-semibold text-white shadow-soft hover:bg-klas-ink transition"
           >
             Add to Claude

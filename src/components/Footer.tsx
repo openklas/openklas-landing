@@ -17,7 +17,7 @@ export default function Footer() {
           </p>
           <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3">
             <Link
-              href="https://claude.ai/settings/connectors"
+              href="https://claude.ai/customize/connectors"
               className="inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-klas-deep hover:bg-klas-rose/40 transition"
             >
               Add to Claude →
@@ -40,8 +40,8 @@ export default function Footer() {
           </p>
           <div className="flex items-center gap-5">
             <Link href="https://github.com/openklas/openklas" className="hover:text-klas-deep">GitHub</Link>
-            <Link href="https://openklas.com/docs" className="hover:text-klas-deep">API</Link>
-            <Link href="https://openklas.com/mcp" className="hover:text-klas-deep">MCP</Link>
+            <Link href="https://mcp.openklas.com/docs" className="hover:text-klas-deep">API</Link>
+            <Link href="https://mcp.openklas.com/mcp" className="hover:text-klas-deep">MCP</Link>
           </div>
         </div>
       </div>
